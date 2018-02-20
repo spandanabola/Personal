@@ -1,0 +1,267 @@
+Cubical request in https://aton.capgemini.com 
+
+Please find the below list of software that needs to be requested.
+ 
+·         Cloud Foundry client
+·         PostgreSQL
+·         Spring Tool Suite
+·         Apache Maven
+·         Node JS
+·         GIT Client
+·         Oracle VM virtual Box
+·         java JDK
+·         WINSCP
+·         Notepad++
+
+wmic bios get serialnumber
+
+Ip Address: 3.209.93.50
+
+CG Global ID 1154297
+
+CHN-SIP-YUS-FF-W0200
+serial number PG00T1HB
+hostname: GDCSIPDT96352 
+
+netstat  -ano |find "8080"
+taskkill /F /PID (listening)
+
+
+0049993524
+CVEI5030
+extn
+
+4492525
+
+6627
+
+4004
+723466899 
+
+
+
+
+[?6/?1/?2017 2:51 PM] Dsilva, Camy Alban: 
+ http://dr1mky.axshare.com 
+502743491/r0dri7gues 
+just copy this and keep
+http://webapps-dev.treasury.corp.ge.com/myfunding
+username = 999999001
+password = test123test 
+
+
+502554557
+Preeth@m1993s
+
+chrome.exe -allow-file-access-from-files -disable-web-security
+
+2)	Or run the application in Mongoose server
+3)	If you are using Http Service install CORS plugin in your chrome and turn it on. It will take only 2 seconds for this plugin.
+Hope this resolves your issue.
+
+
+set HTTP_PROXY=http://proxy-src.research.ge.com:8080
+set HTTPS_PROXY=http://proxy-src.research.ge.com:8080
+set http_proxy=http://proxy-src.research.ge.com:8080
+set https_proxy=http://proxy-src.research.ge.com:8080
+set no_proxy=.ge.com
+
+sjc1intproxy01.crd.ge.com:8080
+
+http://cis-india-pitc-bangalorez.proxy.corporate.ge.com:80
+http://blog.hostilefork.com/error-handling-internal-badrequest-node/
+https://api.ge.com/power/dpod/gr/8311/turbines
+
+
+you can specify repository details to download the plugins like below in pom.xml
+ <pluginRepositories>
+    <pluginRepository>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+      <id>central</id>
+      <name>plugins-release</name>
+      <url>http:///url/plugins-release</url>
+    </pluginRepository>
+    <pluginRepository>
+      <snapshots>
+        <enabled>true</enabled>
+      </snapshots>
+      <id>snapshots</id>
+      <name>plugins-snapshot</name>
+      <url>http://url/plugins-snapshot</url>
+    </pluginRepository>
+  </pluginRepositories>
+
+var fs = require("fs");
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log("Program Ended");
+
+
+502745193
+luv@1729aa
+
+100393271
+
+cf login -a https://api.system.azr-usw01-pr.ice.predix.io
+
+cf login -a https://api.system.aws-usw02-pr.ice.predix.io
+
+prathu.mandawariya@capgemini.com
+Ch@nG3m3
+
+
+Spanadana@95
+
+data-aws-data-solution-dev
+data-aws-facade-solution-dev
+data-aws-simulator-solution-dev
+data-aws-Solution-Portal-CompanyAsset-temp
+data-aws-solution-workflow-service-dev
+solution-aws-portal-simulator
+solution-aws-simulator-ui
+https://machine-simulator-ui.run.aws-usw02-pr.ice.predix.io
+predictive-maintenance-dashboard.run.aws-usw02-pr.ice.predix.io
+
+Analytics ML
+Analytics uaa
+MLUser
+MLUser@18
+
+data1-facade-solution-dev
+data1-data-solution-dev
+
+cf logs data1-facade-solution-dev
+cf logs data1-data-solution-dev
+
+PIN: 0049993524 
+Vijaya@8
+
+var b=a.setDate(a.getDate()-30)
+
+simulator Java: https://data1-simulator-solution-dev.run.azr-usw01-pr.ice.predix.io
+
+https://solution-simulator-ui.run.azr-usw01-pr.ice.predix.io
+
+predictive mainta: https://solution-portal-simulator.run.azr-usw01-pr.ice.predix.io
+https://solution-aws-portal-simulator.run.aws-usw02-pr.ice.predix.io
+
+
+<div ng-class="{'u-1/3': !weatherWid.medium, 'u-1/1': weatherWid.medium}" class="float--left" style="border: 1px solid #ccc;">
+div content
+</div> 
+
+Give some id for px-app-nav and after page load add "navbar--collapsed navbar--text-hidden " class names to that id
+
+https://lyncin2webint.capgemini.com/lwa/WebPages/LwaClient.aspx?legacy=VHJ1ZQ!!&xml=PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48Y29uZi1pbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3J0Yy8yMDA5LzA1L3NpbXBsZWpvaW5jb25mZG9jIj48Y29uZi11cmk-c2lwOnNhZ2FyaWthLmdob3NoQGNhcGdlbWluaS5jb207Z3J1dTtvcGFxdWU9YXBwOmNvbmY6Zm9jdXM6aWQ6OE1ESkg1OU08L2NvbmYtdXJpPjxzZXJ2ZXItdGltZT42Ni4wNjMzPC9zZXJ2ZXItdGltZT48b3JpZ2luYWwtaW5jb21pbmctdXJsPmh0dHBzOi8vbHluYy5jYXBnZW1pbmkuY29tL2NhcGdlbWluaS5jb20vbWVldC9zYWdhcmlrYS5naG9zaC84TURKSDU5TTwvb3JpZ2luYWwtaW5jb21pbmctdXJsPjxjb25mLWtleT44TURKSDU5TTwvY29uZi1rZXk-PGZhbGxiYWNrLXVybD5odHRwczovL2x5bmMuY2FwZ2VtaW5pLmNvbS9jYXBnZW1pbmkuY29tL21lZXQvc2FnYXJpa2EuZ2hvc2gvOE1ESkg1OU0_c2w9PC9mYWxsYmFjay11cmw-PHVjd2EtdXJsPmh0dHBzOi8vbHluY2luMndlYmV4dC5jYXBnZW1pbmkuY29tL3Vjd2EvdjEvYXBwbGljYXRpb25zPC91Y3dhLXVybD48dWN3YS1leHQtdXJsPmh0dHBzOi8vbHluY2luMndlYmV4dC5jYXBnZW1pbmkuY29tL3Vjd2EvdjEvYXBwbGljYXRpb25zPC91Y3dhLWV4dC11cmw-PHVjd2EtaW50LXVybD5odHRwczovL2x5bmNpbjJ3ZWJpbnQuY2FwZ2VtaW5pLmNvbS91Y3dhL3YxL2FwcGxpY2F0aW9uczwvdWN3YS1pbnQtdXJsPjx0ZWxlbWV0cnktaWQ-MDFmZmExMWMtN2ZiMi00ZjY1LTlhYWItMTY5MGU0NDM1NGU4PC90ZWxlbWV0cnktaWQ-PHNlcGFyYXRvciB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS9ydGMvMjAxNi8wOS9zaW1wbGVqb2luY29uZmRvYy1zZXBhcmF0b3IiIC8-PHNlcGFyYXRvciB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS9ydGMvMjAxNi8wOS9zaW1wbGVqb2luY29uZmRvYy1zZXBhcmF0b3IiIC8-PHVjd2EtcHVibGljLXVybCB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS9ydGMvMjAxNi8wOS9zaW1wbGVqb2luY29uZmRvYy1leHRlbnNpb25zIj5odHRwczovL2x5bmNpbjJ3ZWJleHQuY2FwZ2VtaW5pLmNvbS91Y3dhL29hdXRoL3YxL2FwcGxpY2F0aW9uczwvdWN3YS1wdWJsaWMtdXJsPjwvY29uZi1pbmZvPg!!&launched=oc
+
+
+mongoose sequence
+
+var AutoIncrement = require("mongoose-sequence");
+            // createClients.plugin(AutoIncrement);
+
+
+ // var per = {};
+                // console.log(req.body);
+                // for (var key in req.body) {
+                //     per = JSON.parse(key);
+                // }
+                // // console.log("database connected to " + db.databaseName);
+                // var createClient = new CreateClient({
+                //     title: per.title,
+                //     clientId: per.clientId,
+                //     clientSecret: per.clientSecret
+                // });
+
+
+ // sendEmail: (req, res) => {
+    //     ses = req.session;
+    //     //var xoauth2 = require('xoauth2');
+    //     const template = './services/email.html';
+    //     var nodemailer = require('nodemailer');
+    //     var handlebars = require('handlebars');
+    //     var fs = require('fs');
+
+    //     var readHTMLFile = function (template, callback) {
+    //         fs.readFile(template, { encoding: 'utf-8' }, function (err, html) {
+    //             if (err) {
+    //                 throw err;
+    //                 callback(err);
+    //             }
+    //             else {
+    //                 callback(null, html);
+    //             }
+    //         });
+    //     };
+    //     //var smtpTransport = require('nodemailer-smtp-transport');
+    //     //process.env.MAIL_URL='smtp://:' + encodeURIComponent("Nodemailer123") + '@smtp.geips.ge.com:25';
+    //     var transport = nodemailer.createTransport({
+    //         host: 'smtp.geips.ge.com',
+    //         port: 25
+    //     });
+
+    //     console.log('SMTP Configured');
+    //     readHTMLFile(template, function (err, html) {
+    //         var template = handlebars.compile(html);
+    //         var replacements = {
+    //             username: "Chaithanya Bola"
+    //         };
+    //         var htmlToSend = template(replacements);
+    //         var message = {
+
+    //             // sender info
+    //             from: 'spanadana.bola@capgemini.com',
+
+    //             // Comma separated list of recipients
+    //             to: 'spanadana.bola@capgemini.com',
+
+    //             // Subject of the message
+    //             subject: 'Info regarding Test suite failure',
+
+    //             // plaintext body
+
+    //             // HTML body
+    //             html: `${htmlToSend}`
+    //         };
+    //         // ejs.renderFile(template, 'utf8', (err, html) => {
+    //         //     if (err) console.log(err); // Handle error
+
+    //         //     console.log(`HTML: ${html}`);
+
+
+
+    //         console.log('Sending Mail');
+    //         transport.sendMail(message, function (error) {
+    //             if (error) {
+    //                 console.log('Error occured');
+    //                 console.log(error.message);
+    //                 return;
+    //             }
+    //             console.log('Message sent successfully!');
+
+    //             // if you don't want to use this transport object anymore, uncomment following line
+    //             //transport.close(); // close the connection pool
+    //         });
+    //     });
+    //     // Message object
+
+
+    // }
+
+
+eyJhbGciOiJSUzI1NiIsImtpZCI6Inp6QnpDIiwidHlwIjoiSldUIn0.eyJqdGkiOiI3ZGZmNDUzMWYwNjQ0NTA2YTU3ZjlmNGU4MTNjOGRmZCIsInN1YiI6ImFuYWx5dGljc19jbGllbnQiLCJzY29wZSI6WyJjbGllbnRzLnJlYWQiLCJzY2ltLnVzZXJpZHMiLCJhbmFseXRpY3Muem9uZXMuZjI4YmY0OGEtN2NhMy00OGZlLWIxOWItYjhkMjUyM2FjM2I0LnVzZXIiLCJhY3MucG9saWNpZXMud3JpdGUiLCJjbGllbnRzLnNlY3JldCIsImlkcHMud3JpdGUiLCJvcGVuaWQiLCJzY2ltLmludml0ZSIsImdyb3Vwcy51cGRhdGUiLCJvYXV0aC5sb2dpbiIsImFjcy5hdHRyaWJ1dGVzLndyaXRlIiwiY2xpZW50cy5hZG1pbiIsInVhYS5hZG1pbiIsInNjaW0ucmVhZCIsInNjaW0uY3JlYXRlIiwiYWNzLnBvbGljaWVzLnJlYWQiLCJwcmVkaXgtYXNzZXQuem9uZXMuZmIzMmUwYjUtOGRjYS00MDZhLWExZGUtNzYzMDNjYjYzNjcwLnVzZXIiLCJwYXNzd29yZC53cml0ZSIsInByZWRpeC1hY3Muem9uZXMuMzM0NmYyMDgtNTczYS00MDZjLWFmZWMtNjlkNWMwNjk1NmQ2LnVzZXIiLCJhY3MuYXR0cmlidXRlcy5yZWFkIiwidWFhLm5vbmUiLCJjbGllbnRzLndyaXRlIiwiaWRwcy5yZWFkIiwic2NpbS53cml0ZSJdLCJjbGllbnRfaWQiOiJhbmFseXRpY3NfY2xpZW50IiwiY2lkIjoiYW5hbHl0aWNzX2NsaWVudCIsImF6cCI6ImFuYWx5dGljc19jbGllbnQiLCJncmFudF90eXBlIjoiY2xpZW50X2NyZWRlbnRpYWxzIiwicmV2X3NpZyI6IjFkOWQzZDRhIiwiaWF0IjoxNTAyNzE1MjkzLCJleHAiOjE1MDI3NTg0OTMsImlzcyI6Imh0dHBzOi8vYTM0YjE0YzItNjMyZi00MzVhLWE1OTctZTI2YTRmZGUyMTI4LnByZWRpeC11YWEucnVuLmF3cy11c3cwMi1wci5pY2UucHJlZGl4LmlvL29hdXRoL3Rva2VuIiwiemlkIjoiYTM0YjE0YzItNjMyZi00MzVhLWE1OTctZTI2YTRmZGUyMTI4IiwiYXVkIjpbImFuYWx5dGljcy56b25lcy5mMjhiZjQ4YS03Y2EzLTQ4ZmUtYjE5Yi1iOGQyNTIzYWMzYjQiLCJzY2ltIiwiY2xpZW50cyIsIm9wZW5pZCIsImdyb3VwcyIsImFjcy5wb2xpY2llcyIsImlkcHMiLCJhbmFseXRpY3NfY2xpZW50IiwicGFzc3dvcmQiLCJhY3MuYXR0cmlidXRlcyIsInVhYSIsInByZWRpeC1hc3NldC56b25lcy5mYjMyZTBiNS04ZGNhLTQwNmEtYTFkZS03NjMwM2NiNjM2NzAiLCJwcmVkaXgtYWNzLnpvbmVzLjMzNDZmMjA4LTU3M2EtNDA2Yy1hZmVjLTY5ZDVjMDY5NTZkNiIsIm9hdXRoIl19.Im07Idy3XXkq5md2pf_j0179Du2ZGJFRHu6HKSS5LKkpg79Pc6L09XKCbunkAvgApq9B1tNlQE650Gpy_gKpvc3b92p68yOor33f9KpXm6jGxFcDLEPSEPHdnYqy3Y5QkJQ76oZcddPH4Yl4sepfWAzgerw-gy5bpuOQ6zC6sRKDboaHtrNbUj7_QpOZ0kEvEl-4VncvFKjSOSRUNcs2lYpeevtf7KIVOJE1kt-HMwBoD65WgxFhaxXS9NuE9AC3t1nOlSjQaRAAslCmCHqZ4oI8bmz3MdKNaP7krGl3giwkZgHf54cz1heq4eiY_W6FAZSWh8gS3wV_L3EW-TZvCg
+
+<id>devcloud-artifactory</id>
+           <username>502721782</username> 
+           <password>prabuge21pr</password>
+502743491/r0dri7gues
+predix-asset.zones.fb32e0b5-8dca-406a-a1de-76303cb63670.user
+
+cf bind-service Predix-HelloWorld-WebApp-Spandana asset
+"Predix-HelloWorld-WebApp-Spandana"
+     "issuerId": "https://a34b14c2-632f-435a-a597-e26a4fde2128.predix-uaa.run.aw
+s-usw02-pr.ice.predix.io/oauth/token",
+cf create-service predix-acs Free acs -c '{"trustedIssuerIds":["https://a34b14c2-632f-435a-a597-e26a4fde2128.predix-uaa.run.aws-usw02-pr.ice.predix.io/oauth/token"]}'
+https://a34b14c2-632f-435a-a597-e26a4fde2128.predix-uaa.run.aws-usw02-pr.ice.predix.io
